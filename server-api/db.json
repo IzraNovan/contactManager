@@ -2,39 +2,8 @@
   "contacts": [
     {
       "id": "092aa6ff-5fb1-4222-8222-966d1b72e52a",
-      "name": "Izra Novan",
+      "name": "Izra",
       "email": "izranvn@gmail.com"
-    },
-    {
-      "id": "9cf77897-fe02-42c7-9861-0c42ce97c393",
-      "name": "Reza",
-      "email": "reza@gmail.com"
-    },
-    {
-      "contactId": "fb3cec58-8760-4a20-aa5e-70ced1749845",
-      "contactName": "Fikri aaa",
-      "contactEmail": "fikri@gmail.com",
-      "id": "fb3cec58-8760-4a20-aa5e-70ced1749845"
-    },
-    {
-      "id": "70f35be7-fb6d-4411-a9c1-039f05bff0bc",
-      "name": "Mujahidin",
-      "email": "mujahidin@gmail.com"
-    },
-    {
-      "id": "fa3d7322-ec6d-46c9-9462-1b830f84addd",
-      "name": "Raihan",
-      "email": "raihan@gmail.com"
-    },
-    {
-      "id": "a9d17ede-e56d-4448-b210-f895f8939aba",
-      "name": "Yahya",
-      "email": "yahya@gmail.com"
-    },
-    {
-      "id": "3435a3bb-1425-4a6e-89f8-eb909fc9353a",
-      "name": "Algis ",
-      "email": "algis@gmail.com"
     },
     {
       "id": "31023b93-4d05-42f9-a96c-75fc1d2c780f",
@@ -42,9 +11,39 @@
       "email": "atif@gmail.com"
     },
     {
-      "id": "5e77477b-a015-447b-8a02-cf41120d4eb5",
+      "id": "c307be47-8903-4597-add9-f72a38880c4a",
       "name": "Eko",
       "email": "eko@gmail.com"
+    },
+    {
+      "id": "7eb63ea6-212c-4148-a3ef-9c503cb18778",
+      "name": "Reza",
+      "email": "reza@gmail.com"
+    },
+    {
+      "id": "f719f426-cb69-4928-bd17-0cf3558b7ac8",
+      "name": "Raihan",
+      "email": "raihan@gmail.com"
+    },
+    {
+      "id": "47b2be1d-f345-4289-a7b1-6df270f7b649",
+      "name": "Mujahidin",
+      "email": "mujahidin@gmail.com"
+    },
+    {
+      "id": "8b48a5a7-6818-45c6-8449-d816b3063a8a",
+      "name": "Fikri aaaaa",
+      "email": "fikri@gmail.com"
+    },
+    {
+      "id": "e1b03498-8c65-406d-aa2a-087b0b80eb6a",
+      "name": "Yahya",
+      "email": "yahya@gmail.com"
+    },
+    {
+      "id": "b336757b-6e86-48d3-ab13-7f7e885a3bd3",
+      "name": "Algis",
+      "email": "algis@gmail.com"
     }
   ]
 }

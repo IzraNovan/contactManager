@@ -15,7 +15,12 @@ const EditContact = (props) => {
     // menghapus perilaku default dari submit agar tidak merefresh halaman, jika method ini dihapus, maka saat halaman te- refresh, data yang diinputkan akan hilang
     e.preventDefault();
     // mengirim data terbaru ke method di parent component (App.js)
-    props.updateContactHandler({ contactId, contactName, contactEmail });
+    props.updateContactHandler({
+      // variable bisa dan wajib di definisikan ulang agar keyword sama dengan properti di json
+      id: contactId,
+      name: contactName,
+      email: contactEmail,
+    });
     // menghapus field/input saat menekan tombol add (data tetap terkirim)
     setName("");
     setEmail("");
